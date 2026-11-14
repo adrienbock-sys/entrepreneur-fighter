@@ -1,5 +1,8 @@
-# Entrepreneur Fighter
+# Caillou Fighter
 
-Jeu arcade de combat : l'entrepreneur contre 6 fléaux (administration, parking, essence, fisc, faux bienveillant, écolo hypocrite).
+Jeu de combat arcade satirique à Nouméa. 9 personnages jouables (entrepreneur, guichet, parcmètre, vie chère, pompe, fisc TGC, faux bienveillant, écolo-Hilux, conteneur).
 
-Contrôles : ←→ bouger, ↑ sauter, ↓ bloquer, A poing, Z pied, E spécial.
+- Solo contre l'ordi
+- Duel en ligne sur 2 téléphones via un lien (PeerJS / WebRTC)
+
+Clavier : ←→ bouger, ↑ sauter, ↓ garde, A poing, Z pied, X tir, E super.
